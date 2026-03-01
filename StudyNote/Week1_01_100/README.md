@@ -4,12 +4,12 @@
 
 - 規則： 給予一正整數 $n$，若為偶數則 $n = n / 2$，若為奇數則 $n = 3n + 1$。重複此步驟直到 $n = 1$
 - 目標： 在輸入的範圍 $[i, j]$ 之間，找出「循環長度」（Cycle Length）最大的數值，並輸出該最大長度
-Brief description of the problem here. [Link to problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=36)
+- Brief description of the problem here. [Link to problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=36)
 
 ## Learning Objectives
 - [ ] Understand the 3n+1 conjecture
 - [ ] Implement iterative logic
-- [ ] Practice input/output handling in C++
+- [ ] Practice input/output handling in C+
 
 ## Solution Approach
 
