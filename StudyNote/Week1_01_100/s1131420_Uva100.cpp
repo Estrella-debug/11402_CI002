@@ -16,5 +16,5 @@ int main() {
 		}
 		cout << x << " " << y << " " << max_ << endl;
 	}
-
+    return 0;
 }
