@@ -19,9 +19,10 @@
 3. Output the result
 
 ### Key Insights
-- Note any important observations
-- Edge cases to consider
-- Optimization techniques used
+- 輸入順序的彈性 ：
+題目給定的範圍 $i$ 與 $j$ 並不保證 $i < j$。在程式邏輯中，必須使用 min(i, j) 與 max(i, j) 來決定 for 迴圈的範圍，否則當輸入如 100 10 時，迴圈將不會執行，導致結果錯誤
+- 輸出的原始順序：
+輸出結果必須維持輸入時的原始順序（cout << x << " " << y ...），即使在計算時我們調換了它們的大小關係來跑迴圈
 
 ## Code Structure
 ```cpp
