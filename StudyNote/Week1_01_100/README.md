@@ -47,7 +47,7 @@ int main() {
     return 0;
 }
 ```
-[source code](./s1131420_Uva100.cpp)
+[source code](./s1131420-UVa100.cpp)
 
 ## Complexity Analysis
 - **Time Complexity:** O(?)
