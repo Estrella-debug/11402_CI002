@@ -1,4 +1,4 @@
-### 題目：[ 169. Majority Element ]
+### 題目：[ 169. Majority Element ](https://leetcode.com/problems/majority-element/description/)
 
 #### 解題思路
 這題的目標是找出陣列中出現次數大於 ⌊n / 2⌋ 的元素。題目保證這個元素一定存在。
