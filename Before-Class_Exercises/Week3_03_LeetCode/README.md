@@ -1,6 +1,6 @@
-# [169. Majority Element](https://leetcode.com/problems/majority-element/)
+### 題目：[169. Majority Element](https://leetcode.com/problems/majority-element/)
 
-### 解題思路 (Logic)
+#### 解題思路 (Logic)
 這題的目標是找出陣列中出現次數大於 **⌊n / 2⌋** 的元素。題目保證這個元素在陣列中一定存在。
 
 #### 直覺解法 (Hash Map)
