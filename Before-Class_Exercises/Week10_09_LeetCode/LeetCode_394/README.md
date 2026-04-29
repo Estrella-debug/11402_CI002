@@ -16,7 +16,7 @@
     - 將目前的倍數 k 壓入 counts 堆疊
     - 將目前累積的字串 currentStr 壓入 resultStack 堆疊暫存
     - 重置 k 與 currentStr 以處理括號內的內容
-3. 完成嵌套 (遇到 ] )
+3. 完成嵌套 (遇到 ] ):
     - 代表一個局部的重複任務完成了
     - 取出 counts 堆疊頂部的倍數
     - 取出 resultStack 堆疊頂部的「前段字串」作為基礎
